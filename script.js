@@ -1,3 +1,3 @@
-document.getElementById('meuBotao').addEventListener('click', function() {
-document.getElementById('paragrafo').textContent = "Você clicou no botão!";
+document.getElementById("meuBotao").addEventListener("click", function () {
+  document.getElementById("paragrafo").textContent = "Você clicou no botão!";
 });
